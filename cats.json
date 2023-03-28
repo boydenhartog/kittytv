@@ -1,0 +1,52 @@
+[
+  {
+    "id": 123,
+    "slug": "cat1",
+    "name": "Kat 1",
+    "description": "A very very fat cat who likes to gify",
+    "image": "https://cataas.com/cat/gif?tags=fat&height=140",
+    "online": false,
+    "category": "Big cats",
+    "likes": 14
+  },
+  {
+    "id": 124,
+    "slug": "cat2",
+    "name": "Kat 2",
+    "description": "Een lapjeskat heet dus calico cat in het engels",
+    "image": "https://cataas.com/cat/gif?tags=calico&height=140",
+    "online": false,
+    "category": "Lapjes cats",
+    "likes": 24
+  },
+  {
+    "id": 125,
+    "slug": "cat3",
+    "name": "Kat 3",
+    "description": "Persian persuasion kitty",
+    "image": "https://cataas.com/cat/gif?tags=persian&height=140",
+    "online": false,
+    "category": "Persian cats",
+    "likes": 4
+  },
+  {
+    "id": 126,
+    "slug": "cat4",
+    "name": "Kat 4",
+    "description": "Neehow",
+    "image": "https://cataas.com/cat/gif?tags=sushi&height=140",
+    "online": false,
+    "category": "Asian cats",
+    "likes": 54
+  },
+  {
+    "id": 127,
+    "slug": "cat5",
+    "name": "Kat 5",
+    "description": "The type that brings bad luck",
+    "image": "https://cataas.com/cat/gif?tags=Black&height=140",
+    "online": false,
+    "category": "Ebony cats",
+    "likes": 11
+  }
+]
